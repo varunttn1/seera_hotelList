@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  HotelListing
+
+  Created by Varun Kumar on 04/01/21.
+  
+*/
+"Welcome" = "Welcome Arbic";
+"Thank you for trying this app, you are a great person!" =  "Arbic Thank you for trying this app, you are a great person!";
+"Cancel" = "Arbic Cancel";
+"Signup" = "Arbic Signup";
